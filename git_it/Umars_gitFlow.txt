@@ -1,0 +1,9 @@
+Umar's Git flow:
+git init OR git clone
+git checkout OR git switch
+<make your changes>
+git add .
+git commit -m <message>
+git remote add origin <URL>
+git push
+git pull
