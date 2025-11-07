@@ -7,8 +7,8 @@ Structure for Now
 - Update README.md with table of contents (notes made)
 
   TOC
-=======
-1: day3_notes <branch>
+
+* 1: day3_notes <branch>
         - Umars_gitFlow.txt
         - checkout_vs_switch.md
         - embedded_repo.md
