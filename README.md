@@ -5,3 +5,4 @@ Stack Overflow Git Hub Reference: https://stackoverflow.com/questions/315911/git
 Structure for Now
 - each branch is named based on the day of class example: Day_3_notes etc so its easily referenced
 - Update README.md with table of contents (notes made)
+
