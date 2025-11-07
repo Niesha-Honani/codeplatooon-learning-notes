@@ -1,2 +1,2 @@
 CODEPLATOON - IEW 
-- this is where I will put notes and other stuff useful to remember and reference
+- this is where I put notes and other stuff useful to remember and reference
