@@ -6,3 +6,9 @@ Structure for Now
 - each branch is named based on the day of class example: Day_3_notes etc so its easily referenced
 - Update README.md with table of contents (notes made)
 
+  TOC
+=======
+repo: day3_notes
+        - Umars_gitFlow.txt
+        - checkout_vs_switch.md
+        - embedded_repo.md
